@@ -1,0 +1,9 @@
+alfa 0.09
+temp 0.11
+N 500
+maxNrIterations 10000
+updateAsynch 1
+dimX 100
+yMin 0
+yMax 1
+dimY 10

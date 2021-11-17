@@ -1,0 +1,10 @@
+Q 3
+alfa 0.01
+b 0.7
+N 200
+maxNrIterations 20
+updateAsynch 0
+dimX 100
+yMin 0
+yMax 0.4
+dimY 3

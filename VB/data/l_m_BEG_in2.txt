@@ -1,0 +1,11 @@
+alfa 0.02
+N 2000
+maxNrIterations 20
+nrData 200
+updateAsynch 0
+xMin 1
+xMax 2
+dimX 3
+yMin 4
+yMax 5
+dimY 6

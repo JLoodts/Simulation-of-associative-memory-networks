@@ -1,0 +1,9 @@
+Q 3
+deviation 0.1
+b 0.5
+N 1000
+maxNrIterations 10
+updateAsynch 0
+xMin 0
+xMax 0.12
+dimX 100

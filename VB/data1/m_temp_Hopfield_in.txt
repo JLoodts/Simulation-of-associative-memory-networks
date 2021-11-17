@@ -1,0 +1,8 @@
+alfa 0.12
+deviation 0.1
+N 500
+maxNrIterations 3
+updateAsynch 0
+xMin 0
+xMax 1.5
+dimX 100
