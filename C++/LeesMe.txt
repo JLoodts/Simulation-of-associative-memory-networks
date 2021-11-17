@@ -1,0 +1,14 @@
+Beste Toni,
+
+Alle input en output tekstfiles worden momenteel gelezen en opgeslaan in een lokale map data (in de directory van de exe)
+De uitvoer wordt meestal weggeschreven in reeksen a la: x0 y0 x1 y1 enz.  om makkelijker te kunnen inlezen achteraf.
+Voor meer info over SDL kijk bij Marius Andra (http;//cone3d.gamedev.net/).  
+Met graphicsQising en graphicsBEG worden pic000s.txt files gegenereerd.  de s op het einde duidt op saved.  Deze files kan je dan weer
+converteren naar bmp files met behulp van graphics2D, stel wel alle parameters in main.cpp juist in ('k heb er een klein beetje commentaar bijgeschreven)
+De dll en 2 lib files van sdl zitten er bij, maar die zal je wel moeten vervangen door hun linux versies denk ik.
+Ik hoop dat het bolt onder Linux. Zoniet, ik heb de workspace .dsw en projectfile .dsp erbij laten zitten dan kan je het met Microsoft Visual C++ draaien onder windows :o)
+Als er iets niet goed lijkt te werken, mail me dan gerust... hoogst waarschijnlijk heb ik het ook al eens voor gehad ;)
+
+Beste groeten,
+
+Jimmy

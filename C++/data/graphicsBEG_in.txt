@@ -1,0 +1,7 @@
+N 1600
+P 4
+m 0
+l 0
+dimX 3
+targetNr 3
+maxNrIterations 20000
